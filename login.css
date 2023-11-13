@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    color: #6477DB;
+}
+.login-container {
+    background-color: #fff;
+    max-width: 300px;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.login-container h2 {
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.form-group label {
+    display: block;
+    text-align: left;
+}
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form-group input[type="submit"] {
+    background-color:#6477DB;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    width: 107%;
+}
+li{
+    list-style: none;
+    list-style-type: none;
+
+}
